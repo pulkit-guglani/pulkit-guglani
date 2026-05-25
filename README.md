@@ -29,7 +29,7 @@ AI-powered platform focused on intelligent workflows and automation.
 
 ---
 
-### 3. Relationship AI Chat Analyzer (MVP)
+### 3. Relationship AI Chat Analyzer (MVP) - In Progress
 Experimental AI product that analyzes conversations and relationship dynamics.
 
 #### Features
@@ -43,12 +43,22 @@ Experimental AI product that analyzes conversations and relationship dynamics.
 
 ---
 
-### 4. Bubble Shooter Pro (2022)
+### 4. Habit Tracker AI ( Under review on play store  )
+Pure offline and local database Habit Tracker app with weekly and monthly AI Insights of your progress
+
+- Designs made with the help of Stitch and final touch in Figma
+- No latency offline database,push notification system and a clean progress Calender
+- Sent for review on Play Store
+
+🎮 Play Store: https://play.google.com/store/apps/details?id=com.pulkit.habit_tracker_ai
+
+---
+### 5. Bubble Shooter Pro (2022)
 Worked on a large-scale casual mobile game project.
 
-- Gameplay-related improvements
-- UI/UX enhancements
-- Production support and optimization
+- Dynamic random level generation 
+- Well programmed physics and logics 
+- Beautiful UI/UX and animations
 
 🎮 Play Store: https://play.google.com/store/apps/details?id=com.madovergames.BubbleShooterPro&hl=en_IN
 
