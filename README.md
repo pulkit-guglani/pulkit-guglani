@@ -7,11 +7,11 @@ Frontend-focused software engineer building AI-powered products, mobile apps, an
 ## 🚀 Projects
 
 ### 1. Redrob Signal
-Android application focused on communication and productivity workflows.
+Android application for prediction and daily events and weekly/monthly leaderboard.
 
-- Built and contributed to core Android app features
+- Built and contributed to core Android app features, designing the schema and integrating business and technical logics.
 - Worked on performance optimization and UI improvements
-- Production app with real users
+- Production app with 2.5M+ downloads and 1M+ MAU.
 
 📱 Android App: https://play.google.com/store/apps/details?id=io.redrob.signal
 
@@ -21,7 +21,8 @@ Android application focused on communication and productivity workflows.
 AI-powered platform focused on intelligent workflows and automation.
 
 - Worked on AI product experiences
-- Built frontend interfaces and integrations
+- Built frontend interfaces and integrations.
+- Worked on MCPs to be intgerated for increasing the context of AI
 - Focused on usability and scalable architecture
 
 🌐 Website: https://redrob.io
